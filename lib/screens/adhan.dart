@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:intl/intl.dart' hide TextDirection;
-import 'package:kf_drawer/kf_drawer.dart';
+import 'package:quran/drawer.dart';
 import '../Model/Functions.dart';
 import '../Model/UserSimplePreferences.dart';
 import '../Model/Variable_declarations.dart';

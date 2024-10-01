@@ -43,25 +43,23 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   scoped_model: ^2.0.0
-  geolocator_web: ^3.0.0
+  geolocator_web: ^4.1.1
   location_web: any
   shared_preferences_web: any
   url_launcher_web: any
-  audioplayers_web: ^4.1.0
+  audioplayers_web: ^5.0.1
   arabic_font: ^0.0.9
-  audioplayers: ^5.2.1
+  audioplayers: ^6.1.0
   audio_video_progress_bar: ^2.0.2
-  geolocator: ^11.0.0
+  geolocator: ^13.0.1
   google_maps_flutter: ^2.6.0
   adhan: ^2.0.0+1
-  kf_drawer: ^1.2.1
   animated_text_kit: ^4.2.2
-  liquid_progress_indicator: ^0.4.0
+  liquid_progress_indicator_v2: ^0.5.0
   location: ^6.0.1
   geocoding: ^3.0.0
   flutter_local_notifications: ^17.2.2
   permission_handler: ^11.3.1
-  workmanager: ^0.5.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
